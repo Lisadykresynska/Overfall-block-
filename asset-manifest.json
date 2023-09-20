@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Overfall-block-/static/css/main.52b1433c.css",
+    "main.js": "/Overfall-block-/static/js/main.bcdc1beb.js",
+    "index.html": "/Overfall-block-/index.html",
+    "main.52b1433c.css.map": "/Overfall-block-/static/css/main.52b1433c.css.map",
+    "main.bcdc1beb.js.map": "/Overfall-block-/static/js/main.bcdc1beb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b1433c.css",
+    "static/js/main.bcdc1beb.js"
+  ]
+}
